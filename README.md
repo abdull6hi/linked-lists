@@ -8,7 +8,6 @@
 * **Reverse**: Reverses the entire list.
 * **Display**: Prints the contents of the list in a readable format.
 
-## Class Overview
 
 ### `Node` Class
 
