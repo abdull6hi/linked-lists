@@ -77,27 +77,7 @@ ll.reverse()
 ll.display()  # Output: 30 → 20 → 5 → None
 ```
 
-## Installation
 
-You can run this code in any Python environment.
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/linked-list-python.git
-```
-
-2. Navigate into the project directory:
-
-```bash
-cd linked-list-python
-```
-
-3. Run the `linked_list.py` file:
-
-```bash
-python linked_list.py
-```
 
 
 
