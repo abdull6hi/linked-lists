@@ -30,7 +30,7 @@ This class represents the linked list and contains the following methods:
 
 ## Usage
 
-1. **Create a Linked List:**
+1. **Create a LinkedList:**
 
 ```python
 ll = LinkedList()
